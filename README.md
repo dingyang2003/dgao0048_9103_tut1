@@ -18,6 +18,7 @@ Inspired by the style of the website https://ksawerykomputery.com/works/max-coop
 
 This is achieved by deliberately damaging or disrupting the binary data of the image. This effect is not achieved through traditional image filters, but by directly manipulating the underlying byte data of the image file. The core principle of this effect is: treating the image file as pure text or binary data, then destroying its structure in a specific way, and then using the image viewer to **_"fix"_** these errors, thereby generating unpredictable and artistically pleasing visual glitches.
 
+### Reference linking
 - Website:
 [Example implementation 1](http://127.0.0.1:5501/glitch_effect/index.html)
 [Example implementation 2](https://openprocessing.org/sketch/2219978/#code)
