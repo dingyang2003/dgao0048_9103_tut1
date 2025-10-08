@@ -1,0 +1,36 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: #111;
+  font-family: "Helvetica Neue", sans-serif;
+  color: #fff;
+}
+
+canvas {
+  display: block;
+}
+
+#info {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  z-index: 10;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 10px 15px;
+  border-left: 4px solid #f00;
+  font-size: 14px;
+  letter-spacing: 0.5px;
+}
+
+#info h1 {
+  font-size: 16px;
+  margin: 0 0 5px 0;
+  color: #f2f2f2;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+
+
