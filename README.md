@@ -10,9 +10,9 @@ Inspired by the style of the website https://ksawerykomputery.com/works/max-coop
 [Website 2](http://xhslink.com/o/3e17CX2SjZw)
 
 - Screenshots :
-![Image 1](./readmeImages/1.png)
-![Image 2](./readmeImages/2.png)
-![Image 3](./readmeImages/3.png)
+![Image 1](./ReadmeImages/1.png)
+![Image 2](./ReadmeImages/2.png)
+![Image 3](./ReadmeImages/3.png)
 
 ## Part 2: Coding Technique Exploration
 
@@ -23,5 +23,5 @@ This is achieved by deliberately damaging or disrupting the binary data of the i
 [Example implementation 2](https://openprocessing.org/sketch/2219978/#code)
 
 - Screenshots :
-![Image 4](./readmeImages/4.png)
-![Image 5](./readmeImages/5.png)
+![Image 4](./ReadmeImages/4.png)
+![Image 5](./ReadmeImages/5.png)
